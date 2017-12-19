@@ -1,5 +1,5 @@
-token = '252128496:AAHUDCZJlHpd21b722S4B_n6prn8RUjy4'
-is_sudo = '223404066' #@This_Is_Amir
+token = '411364164:AAEX8uR5RMVWcj5jLtP6jTXctNoftrmEwDI'
+is_sudo = '387429836' #@This_Is_Amir
 relam = '-133494595'
 #  ___   __  __ _       _   _     _____                                                                                                                     
 # / _ \ / _|/ _| |   (_) \ | | __|_   _|__  __ _ _ __ ___                                                                                                   
